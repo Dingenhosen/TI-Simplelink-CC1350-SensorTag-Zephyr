@@ -1,0 +1,1 @@
+# TI-Simplelink-CC1350-SensorTag-Zephyr
